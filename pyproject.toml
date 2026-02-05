@@ -1,0 +1,35 @@
+[build-system]
+requires = ["hatchling>=1.24"]
+build-backend = "hatchling.build"
+
+[project]
+name = "bandexa"
+version = "0.1.0"
+description = "Contextual bandits with Neural Thompson Sampling (NeuralLinearTS) in PyTorch."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+authors = [{ name = "Keyvan Rahmani" }]
+dependencies = [
+  "numpy>=1.24",
+  "typing-extensions>=4.8",
+]
+
+[project.optional-dependencies]
+torch = ["torch>=2.1"]
+dev = [
+  "pytest>=8",
+  "ruff>=0.6",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+src = ["src", "tests"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+ignore = ["E501"]
