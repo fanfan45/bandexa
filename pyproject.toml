@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "bandexa"
-version = "0.1.0"
+version = "0.1.0a0"
 description = "Contextual bandits with Neural Thompson Sampling (NeuralLinearTS) in PyTorch."
 readme = "README.md"
 requires-python = ">=3.10"

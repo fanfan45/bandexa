@@ -90,3 +90,6 @@ candidate generation / retrieval → Thompson re-ranking on the candidate set.
 ## License
 
 MIT License (see LICENSE).
+
+## Attribution (Optional)
+Attribution is not required. If you use Bandexa in research or a public project and decide to give credit, you can credit it as: Keyvan Rahmani, *Bandexa* (2026).
